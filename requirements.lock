@@ -95,6 +95,8 @@ jinja2==3.1.6
     # via jupyterlab
     # via jupyterlab-server
     # via nbconvert
+jpholiday==1.0.1
+    # via spot
 json5==0.12.0
     # via jupyterlab-server
 jsonpointer==3.0.0
